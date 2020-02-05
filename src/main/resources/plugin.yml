@@ -1,0 +1,4 @@
+name: chatwar
+version: 1.0
+main: kr.anyiris.chatwar.ChatWar
+api-version: '1.15'
